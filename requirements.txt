@@ -18,10 +18,10 @@ lightning==2.1.2
 mlflow
 pydantic
 SQLAlchemy
-# aim<4.0.0
+aim<4.0.0
 dvc
 dvc-gdrive
-# dvc[s3]
+dvc[s3]
 rich
 hydra-core
 hydra-colorlog
