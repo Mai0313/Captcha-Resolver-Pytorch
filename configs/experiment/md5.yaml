@@ -8,7 +8,7 @@ seed: null
 data:
   _target_: src.data.captcha_datamodule.CaptchaDataModule
   batch_size: 64
-  num_workers: 0
+  num_workers: 23
   pin_memory: False
   dataset:
     train:
